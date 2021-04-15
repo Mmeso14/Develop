@@ -1,0 +1,8 @@
+nav button {
+    background-color:wheat; 
+   color:rgb(27, 182, 182);
+   padding: 12px;
+   font-size: 10px;
+   cursor:grab;
+   } 
+   nav button:hover {background-color:darkgray}
